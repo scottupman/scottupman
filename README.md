@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi there!</h1>
 
 I'm a Software Engineer from Tampa, Florida currently working as a backend developer in Spring Boot and Java. I graduated from the University of South Florida with a B.S. in Computer Science in 2022. 
