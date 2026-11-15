@@ -9,7 +9,7 @@ I landed my first software engineering job after attending a virtual career fair
 <div>
   <div align="center">
     ![][Python] ![][JavaScript]
-  </div>
+
 </div>
 
 <!--
