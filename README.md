@@ -5,11 +5,8 @@ I got into Computer Science after taking a Python course at my community college
 I landed my first software engineering job after attending a virtual career fair and have been in the industry ever since!
 
 <h3 align="left">🛠 Language and Tools</h3>
-
-<div>
-  <div align="center">
-    ![][Python] ![][JavaScript]
-
+<div align="center">
+  ![][Python] ![][JavaScript]
 </div>
 
 <!--
