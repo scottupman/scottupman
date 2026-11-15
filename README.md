@@ -6,7 +6,9 @@ I landed my first software engineering job after attending a virtual career fair
 
 <h3 align="left">🛠 Language and Tools</h3>
 <div align="center">
+  
   ![][Python] ![][JavaScript]
+  
 </div>
 
 <!--
